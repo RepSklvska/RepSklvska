@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <a align="center" href="#">
-<img align="center" alt="RepSklvska's Stats" src="https://github-readme-stats.vercel.app/api?username=RepSklvska&show_icons=true&hide_border=true&count_private=true" />
-<img align="center" alt="RepSklvska's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RepSklvska&show_icons=true&hide_border=true&layout=compact" />
+<img align="center" alt="RepSklvska's Stats" src="https://github-readme-stats.vercel.app/api?username=RepSklvska&show_icons=true&hide_border=true&count_private=true" /><img align="center" alt="RepSklvska's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RepSklvska&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
 - Alexander这个名字只是随便找了个A开头的用而已
