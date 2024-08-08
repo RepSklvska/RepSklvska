@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<a align="center" href="https://github.com/RepSklvska">
+<img align="center" alt="RepSklvska's Stats" src="https://github-readme-stats.vercel.app/api?username=RepSklvska&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" alt="RepSklvska's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RepSklvska&show_icons=true&hide_border=true&layout=compact" />
+</a>
+
+Alexander这个名字只是随便找了个A开头的用而已
+Linux只会用opensuse，因为YaST很省事
+想法很多，实践就犯懒，然后就忘
+
 <!--
 **RepSklvska/RepSklvska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
