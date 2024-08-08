@@ -8,6 +8,9 @@
 - Alexander这个名字只是随便找了个A开头的用而已
 - Linux只会用opensuse，因为YaST很省事
 - 想法很多，实践就犯懒，然后就忘
+- 对技术不求甚解
+- 做没有意义的工作
+- 考虑到网络因素，完全不打算公开的东西会优先提交到Gitee上
 
 <!--
 **RepSklvska/RepSklvska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
