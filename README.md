@@ -15,6 +15,7 @@
 - 喜欢明亮的配色，常用软件不喜欢用深颜色主题
 - 手机上喜欢用很大的字号看任何东西
 - 喜欢用尺寸很小的手机
+- 想学的语言很多，但是基本上只会中文和英语
 
 <!--
 **RepSklvska/RepSklvska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
